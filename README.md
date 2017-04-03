@@ -4,7 +4,7 @@ A Plugin
 
 
 # Description
-This is a plugin
+This is an empty plugin
 
 
 # Usage
