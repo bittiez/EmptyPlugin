@@ -1,0 +1,4 @@
+name: EmptyPlugin
+version: 1.0.0
+author: me
+main: US.Me.EmptyPlugin.main
